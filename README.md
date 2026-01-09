@@ -47,9 +47,8 @@ use our [tool](http://这里放我们的选点网址) to select ROI, or save you
 
 ### 4. Running the SpaceNet pipeline on the [example dataset]
 example datasets can be accessed [here](https://figshare.com/ndownloader/files/60897196)
-* [dot_like_example](https://github.com/broadinstitute/Tangram)
-* [band_like_example](https://github.com/broadinstitute/Tangram)
-
+* [dot_like_example](https://github.com/ProDong0512/SpaceNet/blob/main/tutorials/tutorial_dotlike.ipynb)
+* [band_like_example](https://github.com/ProDong0512/SpaceNet/blob/main/tutorials/tutorial_bandlike.ipynb)
 
 
 ### 5. Expected output
