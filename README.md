@@ -32,7 +32,7 @@ choose one to integrate your scRNA-seq data with SRT data
 * [Cell2location](https://github.com/BayraktarLab/cell2location)
 * [Tangram](https://github.com/broadinstitute/Tangram)
 
-visit STRING to obtain the lastest complete PPI database, or use [a quick-start version of PPI database](http://这里放下载数据库的网址) (support species: human, mouse, rat)
+visit STRING to obtain the lastest complete PPI database, or use [a quick-start version of PPI database](https://figshare.com/ndownloader/files/60897196) (support species: human, mouse, rat)
 * [STRING](https://string-db.org/) (Optional)
 
 visualize your result with cytoscape
@@ -46,7 +46,7 @@ use our [tool](http://这里放我们的选点网址) to select ROI, or save you
 
 
 ### 4. Running the SpaceNet pipeline on the [example dataset]
-example datasets can be accessed [here](http://这里放下载数据的网址，可以跟下载数据库放一起)
+example datasets can be accessed [here](https://figshare.com/ndownloader/files/60897196)
 * [dot_like_example](https://github.com/broadinstitute/Tangram)
 * [band_like_example](https://github.com/broadinstitute/Tangram)
 
