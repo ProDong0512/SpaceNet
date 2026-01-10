@@ -1,6 +1,6 @@
 # SpaceNet文章标题
 
-这里插入workflow图
+![pipeline](Figure 1.png)
 
 This repository describes how to analyse your data with SpaceNet.
 
