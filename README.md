@@ -9,8 +9,6 @@ Details on SpaceNet:
 * Usage
 * Relavants
 
-See also the associated publication in **xxxx**: xxxxxxxxxx
-
 
 ---
 ## Quick start
@@ -41,7 +39,7 @@ visualize your result with cytoscape
 
 
 ### 3. Define ROI in your SRT data
-use our [tool](http://这里放我们的选点网址) to select ROI, or save your disease_metric in st_adata.obs
+use our [tool]([https://xomics.com.cn/SpaceNet/Home.php) to select ROI, or save your disease_metric in st_adata.obs
 
 
 
