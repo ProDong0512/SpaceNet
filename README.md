@@ -60,7 +60,7 @@ The output of SpaceNet containing:
 ---
 
 ## Relavants and more information
-你自由发挥
+None
 
 
 
