@@ -1,6 +1,6 @@
 # SpaceNet文章标题
 
-![pipeline](Figure 1.png)
+![pipeline](Figure1.png)
 
 This repository describes how to analyse your data with SpaceNet.
 
