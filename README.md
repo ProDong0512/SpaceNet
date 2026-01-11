@@ -1,5 +1,6 @@
-# A pathology-driven spatial disease network framework for exploring the molecular changes of lesions
+# SpaceNet: A pathology-driven spatial disease network framework for exploring the molecular changes of lesions
 
+SpaceNet, a pathology-guided spatial network that combines imaging data with single-cell/single-nucleus RNA sequencing (sc/snRNA-seq) and spatially resolved transcriptomics (SRT).  SpaceNet identifies regions of interest (ROIs) directly from pathology or imaging features and examines these areas to find enriched cell types, abnormal gene activity, and spatial protein-protein interaction (PPI) networks.  
 
 ![pipeline](Figure1.png)
 
@@ -61,7 +62,7 @@ The output of SpaceNet containing:
 ---
 
 ## Relavants and more information
-None
+Should you have any questions, please contact Menglei Wang at wangml@zju.edu.cn or Hudong Bao at ProDong@zju.edu.cn
 
 
 
