@@ -18,7 +18,7 @@ Details on SpaceNet:
 ### 1. Installation of SpaceNet
     #installation of conda_env, recommended version python3.8.20, consistent with development env
     cd SpaceNet-release
-    conda env create -n spacenet python=3.8.20 
+    conda create -n spacenet python=3.8.20 
     conda activate spacenet
 
     #installation of requirements
