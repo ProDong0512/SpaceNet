@@ -62,7 +62,8 @@ The output of SpaceNet containing:
 ---
 
 ## Relavants and more information
-Should you have any questions, please contact Menglei Wang at wangml@zju.edu.cn or Hudong Bao at ProDong@zju.edu.cn
+The SpaceNet demonstration video is available in the Releases section of this repository.
+Should you have any questions, please contact Menglei Wang at wangml@zju.edu.cn
 
 
 
